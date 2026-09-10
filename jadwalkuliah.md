@@ -4,3 +4,6 @@ Senin - Kosong
 Selasa - Etika Profesi
 rabu - logika komputasiona
 kamis - PAW
+Jumat - desain interaksi
+
+Total SKS - 21
